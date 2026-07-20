@@ -1,4 +1,4 @@
-# Implementation Plan: Week 2 — Day 6 — GET /api/tasks/completed
+# Implementation Plan: POST /auth/login — JWT Authentication
 
 ## Summary
 
